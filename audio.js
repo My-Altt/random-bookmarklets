@@ -1,0 +1,1 @@
+javascript:(function()%7B(function()%20%7B%0A%20%20%20%20var%20audio%20%3D%20new%20Audio('https%3A%2F%2Fmy-altt.github.io%2Fnew-tabs%2Fnew-tab-1%2Foh_yea.mp4')%3B%0A%20%20%20%20audio.addEventListener('canplay'%2C%20()%20%3D%3E%7B%0A%20%20%20%20%20%20%20%20audio.play()%3B%0A%20%20%20%20%7D)%3B%0A%7D)()%3B%7D)()%3B
