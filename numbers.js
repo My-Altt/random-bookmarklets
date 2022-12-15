@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar cool %3D prompt('how many numbers')%3B%0A%0Aconst n %3D cool%3B%0A%0Afor (let i %3D 1%3B i <%3D n%3B i%2B%2B) %7B%0A    alert(i)%3B    %0A%7D%0A%0Aif (n %3D%3D 1) %7B%0Aalert('you hit the enter key ' %2B n %2B ' time.')%3B%0A%7D%0A%0Aif (n > 1) %7B%0Aalert('you hit the enter key ' %2B n %2B ' times.')%3B%0A%7D%7D)()%3B
